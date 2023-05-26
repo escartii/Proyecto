@@ -1,0 +1,10 @@
+
+body {
+    background-color: aliceblue;
+}
+
+.container_all {
+    max-width: 900px;
+    min-width: 300px;
+    margin: auto;
+  }
